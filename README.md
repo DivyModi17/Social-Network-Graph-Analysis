@@ -103,3 +103,10 @@ This project uses the Facebook Combined Dataset for testing graph algorithms and
 
 ---
 
+## Contributors
+
+- Palash Sachdev
+- Divy Modi
+- Keval Darji
+- Het Prajapati
+
