@@ -110,3 +110,34 @@ This project uses the Facebook Combined Dataset for testing graph algorithms and
 - Keval Darji
 - Het Prajapati
 
+---
+
+## 📸 Project Screenshots
+
+### Main Menu
+
+![Main Menu](Screenshots/Main_menu.png)
+
+---
+
+### Display All Users
+
+![Display Users](Screenshots/Display_all_users.png)
+
+---
+
+### Community Detection
+
+![Community Detection](Screenshots/Communication_Detection.png)
+
+---
+
+### Shortest Path
+
+![Shortest Path](Screenshots/Shortest_Path.png)
+
+---
+
+### Influencer Ranking (PageRank)
+
+![Influencer Ranking](Screenshots/Influencer_Ranking.png)
